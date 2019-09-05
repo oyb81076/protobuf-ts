@@ -1,0 +1,11 @@
+node_modules
+build
+temp
+tmp
+*.log
+*.sw?
+*~
+.DS_Store
+logs
+Thumb.db
+coverage

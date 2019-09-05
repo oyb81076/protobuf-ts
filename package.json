@@ -1,0 +1,9 @@
+{
+  "name": "protobuf-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.9.1",
+    "ts-protoc-gen": "^0.11.0"
+  }
+}
